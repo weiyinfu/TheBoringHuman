@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "凡思集"
+deploy_name="TheBoringHuman"
 
 [build]
 create-missing = false
